@@ -1,0 +1,25 @@
+{
+  "name": "ut365",
+  "version": "1.0.0",
+  "description": "Implementation of 3-6-5 brainstorming method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwentruong/ut365.git"
+  },
+  "author": "Uyen Truong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwentruong/ut365/issues"
+  },
+  "homepage": "https://github.com/gwentruong/ut365#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6"
+  }
+}
